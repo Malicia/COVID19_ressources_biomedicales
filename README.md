@@ -1,12 +1,15 @@
-# COVID19 ressources
+# COVID19 ressources pour le secteur biomédical
 
 Ce projet a pour objectif de collecter et développer des fiches réflexe pour aider les organisations du biomédical à se protéger des cyberattaques pendant la pandémie. L'idée n'est pas de réinventer le pneu crevé mais de fournir de la documentation directement utilisable permettant de durcir le niveau de sécurité d'organisations spécifiques.
 
-L'ambition est assez simple : il s'agit de protéger des équipements et des fonctions dépendant du numérique et qui permettent de contenir l'épidémie COVID19. Il s'agit ainsi d'éviter à ce que les équipes de réponse à incidents se retrouvent rapidement saturées. En effet, les incidents de sécurité d'origine malveillante se multiplient. Les données épidémiologiques dont on dispose permettent d'anticiper une progression importante de la maladie mais elle sera contenue si on respecte les mesures instaurées et si tous les établissements continuent à fonctionner correctement. Nous ne voulons pas faire face à des hôpitaux bloqués cause rançongiciels : un tel blocage pourrait faire basculer le pays par manque de soins appropriés.
+L'ambition est assez simple : il s'agit de protéger des équipements et des fonctions dépendant du numérique et qui permettent de contenir l'épidémie COVID19. Or, les personnes qui font de la sécurité ne comprennent souvent pas les spécificités du biomédical.
+
+Il s'agit ainsi d'éviter à ce que les équipes de réponse à incidents se retrouvent rapidement saturées. En effet, les incidents de sécurité d'origine malveillante se multiplient. Les données épidémiologiques dont on dispose permettent d'anticiper une progression importante de la maladie mais elle sera contenue si on respecte les mesures instaurées et si tous les établissements continuent à fonctionner correctement. Nous ne voulons pas faire face à des hôpitaux bloqués cause rançongiciels : un tel blocage pourrait faire basculer le pays par manque de soins appropriés.
 
 **=> Réduire les risques pour les établissements biomédicaux assurant le dépistage et le suivi de propagation est critique. Cela laissera le temps aux équipes de réponse à incidents de se concentrer sur les cas graves (hôpitaux).**
 
 C'est pourquoi j'ai sollicité beaucoup de personnes ayant des compétences spécifiques et rares. La dissémination des fiches se fera à travers cybermalveillance.gouv.fr
+
 
 ## Activités visées
 Après quelques discussions, l'idée s'est précisée : focus sur l'écosystème biomédical.
@@ -15,6 +18,12 @@ Après quelques discussions, l'idée s'est précisée : focus sur l'écosystème
 * centres médico-sociaux, professions médicales mobilisées auxquels on ne pense pas immédiatement (psychologues cliniciens, par ex.).
 
 Pour l'instant, si j'ai bien compris, les instituts de recherche biomédicale tels que Pasteur, Fondation AP-HP dépendent des FSSI, même si les cascades opérationnelles peuvent varier. Donc, à l'heure actuelle, sauf indication spécifique contraire, ils sont hors scope.
+
+## Besoins
+1) Clarifier les outils et équipements indispensables pour chacune des activités ;
+2) Elaborer des approches de "durcissement" (= élévation du niveau de sécurité).
+
+Vous n'êtes peut-être pas un-e expert-e en sécurité ? Si vous avez une expertise en outillage biomédicale, on trouvera l'expertise en sécurité :) Le problème des personnes qui font de la sécurité est de ne pas comprendre les spécificités du biomédical.
 
 
 ## Genèse
